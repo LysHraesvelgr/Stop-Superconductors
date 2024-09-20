@@ -1,14 +1,28 @@
+<style>
+body, a {
+    color: #91ecbe;
+    background: #000000;
+}
+a, strong {
+    color: #ecbe91;
+}
+h1 {
+color: #be91ec;
+}
+</style>
 
-
+<!--
 # Pause Random Superconductor Experiments: An Open Letter
 
+
 We call on all labs and kitchens to immediately pause for at least 6 months the making of conductors with lower resistance than copper. 
+-->
 
 Signatures
 
-293K
+**293K**
 
-August 4, 2023
+_August 4, 2023_
 
 ---
 
@@ -30,23 +44,27 @@ Humanity can look forward to a promising future with superconductors. Having exc
 
 ---
 
-Signatories
-Dr. Eustace Thermomagnus, Director of Cryogenic Metals Research and Quantum Resonance Studies
+# Signatories
+**Dr. Eustace Thermomagnus**, Director of Cryogenic Metals Research and Quantum Resonance Studies
 
-Sir Percival Ferroflux, Magnet Magnate
+**Sir Percival Ferroflux**, Magnet Magnate
 
-Professor Isadora Fluxington, Chairperson of Advanced Copper Oxide Superconductivity Consortium
+**Professor Isadora Fluxington**, Chairperson of Advanced Copper Oxide Superconductivity Consortium
 
-Octavia Coppertino, Copper Yarn Spinner
+**Octavia Coppertino**, Copper Yarn Spinner
 
-Baron Reginald Cryogenius, Executive Director of Superconducting Infrastructure and Cryoplumbing Development
+**Baron Reginald Cryogenius**, Executive Director of Superconducting Infrastructure and Cryoplumbing Development
 
-Lady Seraphina Thermodynix, Owner of YBCO Industrial Supplies
+**Lady Seraphina Thermodynix**, Owner of YBCO Industrial Supplies
 
-Lord Archibald Ampertorque, Director of High-Current Copper Braid Design and Kinetic Superconductance Studies
+**Lord Archibald Ampertorque**, Director of High-Current Copper Braid Design and Kinetic Superconductance Studies
 
-Cornelius Cryomesh, Liquid Nitrogen Wholesaler
+**Cornelius Cryomesh**, Liquid Nitrogen Wholesaler
 
-Dr. Magnolia Cryovolt, Principal Cryophysicist at the Institute for Cryogenic Voltage Flux Densities
+**Dr. Magnolia Cryovolt**, Principal Cryophysicist at the Institute for Cryogenic Voltage Flux Densities
 
-Countess Valentina Quenchfield, Inheritor Emerald and Copper Mines Company
+**Countess Valentina Quenchfield**, Inheritor Emerald and Copper Mines Company
+
+---
+
+Original Source: [Future of Liff](https://futureofliff.org)
