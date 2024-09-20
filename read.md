@@ -6,7 +6,7 @@ body, a {
 a, strong {
     color: #ecbe91;
 }
-h1 {
+h1, u {
 color: #be91ec;
 }
 </style>
@@ -22,7 +22,7 @@ Signatures
 
 **293K**
 
-_August 4, 2023_
+<u>August 4, 2023</u>
 
 ---
 
