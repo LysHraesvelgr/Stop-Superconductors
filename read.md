@@ -68,3 +68,5 @@ Humanity can look forward to a promising future with superconductors. Having exc
 ---
 
 Original Source: [Future of Liff](https://futureofliff.org)
+
+Archived: [Wayback](https://web.archive.org/web/20240527053336/https://futureofliff.org/)
